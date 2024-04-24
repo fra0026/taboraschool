@@ -1,0 +1,15 @@
+
+form {
+    background-color:darkkhaki ;
+    color: #000000;
+    padding:2rem 4rem;
+    border-radius: 8px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+  }
+  body{
+    background-image:url("assets/images/admin2.jpg");
+  }
+ 
